@@ -1,7 +1,7 @@
 # Leaflet Storymap Peru
 A leaflet detailing my recent summer trip to Peru
 
-## Live links (replace with your own)
+## Live links 
 - Leaflet Map https://hsilvd.github.io/leaflet-storymap-peru/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1msKZyjufvRVJnNd7Wql5iGoWEEV1rAU6q28_74gO_jQ/edit#gid=0
 
