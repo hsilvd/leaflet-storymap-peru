@@ -23,9 +23,9 @@ body {
 }
 
 #contents {
-  padding: 2;
+  padding: 5px;
   width: 100%;
-  margin-top: 4; /*Adjust if Title header needs more space */
+  margin-top: 5px; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
   overflow-y: scroll;
   overflow-x: hidden;
