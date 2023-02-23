@@ -1,6 +1,6 @@
 body {
-  padding: 30px;
-  margin: 20px;
+  padding: 0px;
+  margin: 0px;
   font-family: 'Roboto Slab', serif;
   overflow: hidden;
 }
@@ -25,7 +25,7 @@ body {
 #contents {
   padding: 0px;
   width: 100%;
-  margin-top: 2px; /*Adjust if Title header needs more space */
+  margin-top: 0px; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
   overflow-y: scroll;
   overflow-x: hidden;
